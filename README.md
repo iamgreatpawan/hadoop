@@ -1,2 +1,2 @@
 # hadoop
-queries and pyhton code 
+Map reduce code in pyhton code 
