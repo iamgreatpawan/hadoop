@@ -1,2 +1,2 @@
 # hadoop
-Map reduce code in pyhton code 
+Titanic data analysis using Mapper and reducer
